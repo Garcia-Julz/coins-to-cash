@@ -26,4 +26,3 @@ print ("List after right rotate by 3(back to original) : "
 test_list = test_list[1-5]
 print('REVERSE' + str(test_list))
                                         
-
