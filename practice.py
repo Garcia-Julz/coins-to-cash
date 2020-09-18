@@ -1,6 +1,6 @@
 # Python3 code to demonstrate  
 # rotation of list  
-# using slice  
+# using slices
   
 # initializing list 
 test_list = [1, 4, 6, 7, 2, 11, 44, 66, 77, 22] 
