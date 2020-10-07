@@ -27,7 +27,6 @@ def calc_dollars(**coins):
         "d": 10,
         "q": 4,    
     }
-    # print(dollarAmount['p'] * coins['pennies'] + dollarAmount['n'] * coins['nickels'] + dollarAmount['d'] * coins['dimes'] + dollarAmount['q'] * coins['quarters'])
 
     print(coins['pennies'] / dollarAmount['p'] + coins['nickels'] / dollarAmount['d'] + coins['dimes'] / dollarAmount['n'] + coins['quarters'] / dollarAmount['q'])
 
